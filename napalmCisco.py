@@ -1,11 +1,12 @@
 from napalm1 import get_network_driver
 import json
 
+#hciham maaroufi
 
 #list ip
 listip = [
-    '1.1.1.1',
-    '2.2.2.2'
+    '10.0.0.1',
+    '10.0.0.2'
 ]
 
 
